@@ -7,3 +7,5 @@ Includes functionality to:
   3. Determine if a graph is 3-colorable
   4. Determine if a graph is a proper edge coloring
   5. Use traditional greedy algorithm
+
+Uses only copy.deepcopy() from external libraries
